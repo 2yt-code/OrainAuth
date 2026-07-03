@@ -3,13 +3,13 @@
 [![Django Version](https://img.shields.io/badge/django-4.2+-green.svg)](https://www.djangoproject.com/)
 
 ## Table of Contents
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
 
 ## Features
 - **Custom User Model:** Fully customizable user profiles using Django's `AbstractUser`
@@ -66,9 +66,9 @@ To access the authentication flow:
 
 ## Screenshots
 
-![Login Page](https://github.com/2yt-code/OrainAuth/tree/main/core/screenshot-1.png)
-![Dashboard Page](https://github.com/2yt-code/OrainAuth/tree/main/core/screenshot-2.png)
-![Home Page](https://github.com/2yt-code/OrainAuth/tree/main/core/screenshot-3.png)
+![Login Page](https://github.com/2yt-code/OrainAuth/blob/main/core/Screenshots/screenshot-1.png)
+![Dashboard Page](https://github.com/2yt-code/OrainAuth/blob/main/core/Screenshots/screenshot-2.png)
+![Home Page](https://github.com/2yt-code/OrainAuth/blob/main/core/Screenshots/screenshot-3.png)
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated
@@ -78,3 +78,5 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (git commit -m 'Add some AmazingFeature')
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+
+Made with ❤️ by [2yt](https://github.com/2yt-code)
