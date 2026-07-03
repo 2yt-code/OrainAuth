@@ -22,7 +22,7 @@
 
 - **Backend:** [Python](https://www.python.org/) & [Django](https://www.djangoproject.com/)
 - **Frontend:** HTML5, CSS3, [Bootstrap 4/5](https://getbootstrap.com/)
-- **Database:** SQLite (Default)
+- **Database:** MySQL
 - **Security:** Django Middleware, CSRF Tokens, Password Hashing
 
 ## Prerequisites
