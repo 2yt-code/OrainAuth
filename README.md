@@ -28,7 +28,6 @@
 ## Prerequisites
 
 - Python 3.9+
-- pip (Python package manager)
 - Git
 
 ## Installation
@@ -48,7 +47,7 @@ Follow these steps to get a local copy up and running:
    python -m venv venv
    # On Windows:
    venv\Scripts\activate
-   # On macOS/Linux:
+   # On Linux:
    source venv/bin/activate
 ```
 
