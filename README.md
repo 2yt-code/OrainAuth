@@ -63,6 +63,9 @@ Follow these steps to get a local copy up and running:
 The project uses environment variables for sensitive information
 Copy the example environment file:
 ```bash
+   # For Windows
+   copy .env.example .env
+   # For linux
    cp .env.example .env
 ```
 Open the `.env` file and update it with your own database credentials
