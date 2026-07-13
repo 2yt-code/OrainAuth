@@ -8,7 +8,6 @@ import environ
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# TODO
 env = environ.Env(
     DEBUG=(bool, False)
 )
