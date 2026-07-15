@@ -104,8 +104,8 @@ To access the authentication flow:
 
 ## Screenshots
 
-![Login Page](assets/Screenshots/screenshot-1.png)
-![Dashboard Page](assets/Screenshots/screenshot-2.png)
-![Home Page](assets/Screenshots/screenshot-3.png)
+![Login Page](assets/screenshots/screenshot-1.png)
+![Dashboard Page](assets/screenshots/screenshot-2.png)
+![Home Page](assets/screenshots/screenshot-3.png)
 
 I would appreciate it if you could add a star to support my project 🙏
