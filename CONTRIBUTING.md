@@ -1,6 +1,6 @@
 # Contributing Guide
 
-First off, thank you for considering contributing to this project! It's people like you that make the open-source community such an amazing place to learn, inspire, and create.
+First off, thank you for considering contributing to this project! It's people like you that make the open-source community such an amazing place to learn, inspire, and create
 
 ## Table of Contents
 - [Code of Conduct](#code-of-conduct)
@@ -12,21 +12,21 @@ First off, thank you for considering contributing to this project! It's people l
 - [Contact](#contact)
 
 ## Code of Conduct
-By participating in this project, you agree to abide by our Code of Conduct. Please be respectful and professional in all interactions.
+By participating in this project, you agree to abide by our Code of Conduct. Please be respectful and professional in all interactions
 
-## How Can I Contribute?
+## How Can I Contribute ?
 
 ### Reporting Bugs
 If you find a bug, please open an **Issue** first. When reporting a bug, please include:
-- A clear, descriptive title.
-- Steps to reproduce the problem.
-- Expected vs. Actual behavior.
-- Your environment details (OS, Python version, Django version, etc.).
+- A clear, descriptive title
+- Steps to reproduce the problem
+- Expected vs. Actual behavior
+- Your environment details (OS, Python version, Django version, etc.)
 
 ### Suggesting Enhancements
 We love new ideas! If you want to suggest a new feature:
-1. Open an **Issue** titled `[Feature Request] Your Idea`.
-2. Explain why this feature would be useful and how it should work.
+1. Open an **Issue** titled `[Feature Request] Your Idea`
+2. Explain why this feature would be useful and how it should work
 
 ### Pull Requests
 If you are ready to write code, please follow these steps:
