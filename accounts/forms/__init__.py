@@ -1,3 +1,3 @@
-from .UserUpdateForm import *
-from .PasswordUpdateForm import *
-from .RegisterForm import *
+from .user_update import *
+from .password_update import *
+from .register import *
