@@ -15,9 +15,6 @@ class RedirectDashboard:
             return redirect('dashboard')
         return super().dispatch(request, *args, **kwargs)
 
-# -------------------
-# Redirect operation
-# -------------------
 class CustomPasswordResetView(RedirectDashboard, PasswordResetView):
     pass
 class CustomPasswordResetDoneView(RedirectDashboard, PasswordResetDoneView):
