@@ -82,6 +82,7 @@ Ensure your MySQL user has permissions to access this database
 6. **Run Migrations:**
 
 ```bash
+   python manage.py makemigrations
    python manage.py migrate
 ```
 
